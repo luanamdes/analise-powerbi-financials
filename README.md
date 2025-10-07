@@ -3,7 +3,7 @@ Desafio DIO: Analisando dados de um Dashboard de Vendas no Power BI.
 
 ### Análise Power BI - Financials Sample
 
-Este projeto tem como objetivo replicar duas páginas já criadas durante o curso e desenvolver uma terceira página, aplicando os conceitos aprendidos de criação de visuais e boas práticas de organização de relatórios.
+Este projeto tem como objetivo replicar duas páginas já criadas durante o curso e desenvolver uma terceira página, aplicando os conceitos aprendidos de criação de visuais e boas práticas de organização de relatórios. O projeto utiliza o sample de Financials disponibilizado pelo próprio Power BI.
 
 ### Mais detalhes
 
